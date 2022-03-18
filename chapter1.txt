@@ -1,8 +1,0 @@
-=========
-CHAPTER 1
-=========
-fuga
-fuga
-additional
-Catzby chapter2.txt characters.txt outline.txt
-catzby chapter2.txt characters.txt outline.txt
